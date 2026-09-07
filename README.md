@@ -144,6 +144,7 @@ The application uses local image assets to display the fruit pictures.
 ## Output
 
 The final output is a **Fruit Market** application displayed in Google Chrome.
+
 ![Fruit Market Output](output1.png)
 
 The screen contains a vertically scrollable list of fruit cards with their respective images, names, descriptions, prices, and icons.
